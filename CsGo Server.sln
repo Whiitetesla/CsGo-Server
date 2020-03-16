@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsGo Server", "CsGo Server\CsGo Server.csproj", "{2B9E41CD-4DE2-4804-B1B7-12CCE4E4138B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B9E41CD-4DE2-4804-B1B7-12CCE4E4138B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9E41CD-4DE2-4804-B1B7-12CCE4E4138B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9E41CD-4DE2-4804-B1B7-12CCE4E4138B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9E41CD-4DE2-4804-B1B7-12CCE4E4138B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C45AC51-210C-4069-A030-36AC6DDF829A}
+	EndGlobalSection
+EndGlobal
