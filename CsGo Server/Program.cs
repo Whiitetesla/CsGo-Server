@@ -112,8 +112,16 @@ namespace CsGo_Server
                 //check if the server asks for an update if so close all servers
                 if (outLine.Data.Equals("Your server is out of date.  Please update and restart."))
                     StopClient();
+
+                if (outLine.Data.Equals("Unknown command \"Steam-Starting\""))
+                    StartSteam();
             }
             catch { }
+        }
+
+        public static void StartSteam()
+        {
+            Console.WriteLine("Test");
         }
 
         /// <summary>
